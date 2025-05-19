@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @N1KD1
-- 👀 I’m interested in gamedev and useless things
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in a gamedev 
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on something fun
 
 
